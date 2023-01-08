@@ -6,3 +6,7 @@ The final pipelines, **Recommendations**, take input from four repositories, new
 The containerized code in the final pipeline uses a model to find the three users that are most similar to the new user whose data is in the user_path file. The similarity between users is determined using the features that were extracted from the movie rating data for each user.
 
 Next, the model finds the three existing users that are most similar to the new user, based on the features of the movie rating data. It then creates a set of all the movies that have been rated by these similar users and a set of all the movies that have been rated by the new user. The code then finds the difference between these sets to obtain a list of movies that have been rated by the similar users but not by the new user. This list of movies is sorted and written to a file in the /pfs/out directory.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/93088807/211189912-88d8f9ff-f92d-4a2c-b1f3-776d69e08296.JPG" />
+</p>
