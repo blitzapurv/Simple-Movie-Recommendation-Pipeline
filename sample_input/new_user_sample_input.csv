@@ -1,0 +1,114 @@
+userId,movieId,title,genres,rating
+1,16,Casino (1995),Crime|Drama,4
+1,24,Powder (1995),Drama|Sci-Fi,1.5
+1,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,4
+1,47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,4
+1,50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,4
+1,110,Braveheart (1995),Action|Drama|War,4
+1,150,Apollo 13 (1995),Adventure|Drama|IMAX,3
+1,161,Crimson Tide (1995),Drama|Thriller|War,4
+1,165,Die Hard: With a Vengeance (1995),Action|Crime|Thriller,3
+1,204,Under Siege 2: Dark Territory (1995),Action,0.5
+1,223,Clerks (1994),Comedy,4
+1,256,Junior (1994),Comedy|Sci-Fi,0.5
+1,260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,4.5
+1,261,Little Women (1994),Drama,1.5
+1,277,Miracle on 34th Street (1994),Drama,0.5
+1,296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,4
+1,318,"Shawshank Redemption, The (1994)",Crime|Drama,4
+1,349,Clear and Present Danger (1994),Action|Crime|Drama|Thriller,4.5
+1,356,Forrest Gump (1994),Comedy|Drama|Romance|War,3
+1,377,Speed (1994),Action|Romance|Thriller,2.5
+1,380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,3
+1,457,"Fugitive, The (1993)",Thriller,4
+1,480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,3.5
+1,527,Schindler's List (1993),Drama|War,4.5
+1,589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,3.5
+1,590,Dances with Wolves (1990),Adventure|Drama|Western,3.5
+1,592,Batman (1989),Action|Crime|Thriller,2.5
+1,593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,5
+1,597,Pretty Woman (1990),Comedy|Romance,3
+1,608,Fargo (1996),Comedy|Crime|Drama|Thriller,3.5
+1,648,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller,3.5
+1,719,Multiplicity (1996),Comedy,0.5
+1,724,"Craft, The (1996)",Drama|Fantasy|Horror|Thriller,3.5
+1,736,Twister (1996),Action|Adventure|Romance|Thriller,3
+1,780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller,3.5
+1,858,"Godfather, The (1972)",Crime|Drama,5
+1,912,Casablanca (1942),Drama|Romance,5
+1,968,Night of the Living Dead (1968),Horror|Sci-Fi|Thriller,4.5
+1,1061,Sleepers (1996),Thriller,4
+1,1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,4.5
+1,1136,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,5
+1,1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,4.5
+1,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,4
+1,1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,4.5
+1,1213,Goodfellas (1990),Crime|Drama,5
+1,1220,"Blues Brothers, The (1980)",Action|Comedy|Musical,4
+1,1221,"Godfather: Part II, The (1974)",Crime|Drama,5
+1,1222,Full Metal Jacket (1987),Drama|War,5
+1,1233,"Boot, Das (Boat, The) (1981)",Action|Drama|War,4.5
+1,1243,Rosencrantz and Guildenstern Are Dead (1990),Comedy|Drama,3.5
+1,1258,"Shining, The (1980)",Horror,4.5
+1,1265,Groundhog Day (1993),Comedy|Fantasy|Romance,3
+1,1267,"Manchurian Candidate, The (1962)",Crime|Thriller|War,4
+1,1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,3
+1,1287,Ben-Hur (1959),Action|Adventure|Drama,4.5
+1,1580,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi,3.5
+1,1617,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller,3.5
+1,1721,Titanic (1997),Drama|Romance,1.5
+1,1923,There's Something About Mary (1998),Comedy|Romance,1.5
+1,1961,Rain Man (1988),Drama,3
+1,2021,Dune (1984),Adventure|Sci-Fi,4
+1,2028,Saving Private Ryan (1998),Action|Drama|War,4.5
+1,2105,Tron (1982),Action|Adventure|Sci-Fi,1.5
+1,2161,"NeverEnding Story, The (1984)",Adventure|Children|Fantasy,1.5
+1,2194,"Untouchables, The (1987)",Action|Crime|Drama,4.5
+1,2396,Shakespeare in Love (1998),Comedy|Drama|Romance,4
+1,2407,Cocoon (1985),Comedy|Sci-Fi,2.5
+1,2455,"Fly, The (1986)",Drama|Horror|Sci-Fi|Thriller,2
+1,2467,"Name of the Rose, The (Name der Rose, Der) (1986)",Crime|Drama|Mystery|Thriller,4.5
+1,2502,Office Space (1999),Comedy|Crime,4
+1,2542,"Lock, Stock & Two Smoking Barrels (1998)",Comedy|Crime|Thriller,4.5
+1,2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,4.5
+1,2628,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi,3
+1,2716,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi,3.5
+1,2728,Spartacus (1960),Action|Drama|Romance|War,5
+1,2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery,3
+1,2858,American Beauty (1999),Drama|Romance,4
+1,2947,Goldfinger (1964),Action|Adventure|Thriller,3.5
+1,2959,Fight Club (1999),Action|Crime|Drama|Thriller,5
+1,3256,Patriot Games (1992),Action|Crime|Drama|Thriller,5
+1,3421,Animal House (1978),Comedy,4.5
+1,3578,Gladiator (2000),Action|Adventure|Drama,4
+1,4011,Snatch (2000),Comedy|Crime|Thriller,4.5
+1,4027,"O Brother, Where Art Thou? (2000)",Adventure|Comedy|Crime,3.5
+1,4033,Thirteen Days (2000),Drama|Thriller|War,3.5
+1,4085,Beverly Hills Cop (1984),Action|Comedy|Crime|Drama,3.5
+1,4262,Scarface (1983),Action|Crime|Drama,5
+1,4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,4
+1,4963,Ocean's Eleven (2001),Crime|Thriller,3.5
+1,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,4.5
+1,4995,"Beautiful Mind, A (2001)",Drama|Romance,4
+1,5349,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller,3
+1,5378,Star Wars: Episode II - Attack of the Clones (2002),Action|Adventure|Sci-Fi|IMAX,3.5
+1,5418,"Bourne Identity, The (2002)",Action|Mystery|Thriller,4
+1,5445,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller,3.5
+1,5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,4.5
+1,6365,"Matrix Reloaded, The (2003)",Action|Adventure|Sci-Fi|Thriller|IMAX,4.5
+1,6711,Lost in Translation (2003),Comedy|Drama|Romance,3.5
+1,6807,Monty Python's The Meaning of Life (1983),Comedy,4
+1,7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,4.5
+1,8825,Cheerleader Camp (1987),Comedy|Horror|Mystery,2.5
+1,8961,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy,4
+1,32587,Sin City (2005),Action|Crime|Film-Noir|Mystery|Thriller,4.5
+1,33493,Star Wars: Episode III - Revenge of the Sith (2005),Action|Adventure|Sci-Fi,4.5
+1,33794,Batman Begins (2005),Action|Crime|IMAX,4.5
+1,33834,Land of the Dead (2005),Action|Horror|Thriller,4.5
+1,45950,"Inconvenient Truth, An (2006)",Documentary,0.5
+1,48516,"Departed, The (2006)",Crime|Drama|Thriller,5
+1,48780,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,4
+1,49272,Casino Royale (2006),Action|Adventure|Thriller,3.5
+1,52973,Knocked Up (2007),Comedy|Drama|Romance,3.5
+1,54286,"Bourne Ultimatum, The (2007)",Action|Crime|Thriller,4
+1,57949,"Welcome Home, Roscoe Jenkins (2008)",Comedy,0.5

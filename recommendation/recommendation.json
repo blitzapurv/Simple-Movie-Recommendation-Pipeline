@@ -1,0 +1,54 @@
+{
+  "pipeline": {
+    "name": "recommendations"
+  },
+  "description": "A pipeline that performs image edge detection by using the OpenCV library.",
+  "input": {
+    "cross":[
+      {
+      "join": [
+        {
+          "pfs": {
+            "repo": "new_users",
+            "branch": "master",
+            "glob": "/(*)",
+            "join_on": "$1"
+          }
+        },
+      {
+        "pfs": {
+          "repo": "new_user_features",
+          "branch": "master",
+          "glob": "/(*)",
+          "join_on": "$1"
+        }
+      }
+    ]
+  },
+    {
+      "join": [
+        {
+          "pfs": {
+            "repo": "existing_user_features",
+            "branch": "master",
+            "glob": "/*",
+            "join_on": "$1"
+          }
+        },
+      {
+        "pfs": {
+          "repo": "models",
+          "branch": "master",
+          "glob": "/*",
+          "join_on": "$1"
+        }
+      }
+    ]
+  }
+]
+},
+  "transform": {
+    "cmd": [ "python3", "recommendation.py" ],
+    "image": "apurva543/movie_recommendation:recommendation.11"
+  }
+}

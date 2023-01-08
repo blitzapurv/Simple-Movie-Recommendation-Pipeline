@@ -1,0 +1,6 @@
+FROM python:3.10
+RUN apt-get update
+RUN python3 -m pip install --upgrade pip
+COPY existing_users/features_old.py .
+COPY requirements_features.txt .
+RUN pip3 install -r requirements_features.txt

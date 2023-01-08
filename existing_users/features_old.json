@@ -1,0 +1,16 @@
+{
+  "pipeline": {
+    "name": "existing_user_features"
+  },
+  "description": "A pipeline that performs image edge detection by using the OpenCV library.",
+  "input": {
+    "pfs": {
+      "glob": "/*",
+      "repo": "existing_users"
+    }
+  },
+  "transform": {
+    "cmd": [ "python3", "features_old.py" ],
+    "image": "apurva543/movie_recommendation:features_old.1"
+  }
+}

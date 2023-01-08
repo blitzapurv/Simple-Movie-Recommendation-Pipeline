@@ -1,0 +1,143 @@
+,userId,movieId,title,genres,rating
+478,149,6,Heat (1995),Action|Crime|Thriller,4.0
+673,149,10,GoldenEye (1995),Action|Adventure|Thriller,3.0
+958,149,16,Casino (1995),Crime|Drama,5.0
+1170,149,19,Ace Ventura: When Nature Calls (1995),Comedy,3.0
+1277,149,21,Get Shorty (1995),Comedy|Crime|Thriller,4.0
+1410,149,23,Assassins (1995),Action|Crime|Thriller,3.0
+1435,149,24,Powder (1995),Drama|Sci-Fi,3.0
+1728,149,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,5.0
+2047,149,36,Dead Man Walking (1995),Crime|Drama,5.0
+2135,149,39,Clueless (1995),Comedy|Romance,5.0
+2403,149,47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,5.0
+2667,149,50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,5.0
+3173,149,70,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller,4.0
+3841,149,110,Braveheart (1995),Action|Drama|War,5.0
+4067,149,111,Taxi Driver (1976),Crime|Drama|Thriller,5.0
+4252,149,122,Boomerang (1992),Comedy|Romance,3.0
+4881,149,153,Batman Forever (1995),Action|Adventure|Comedy|Crime,3.0
+5010,149,154,Beauty of the Day (Belle de jour) (1967),Drama,4.0
+5055,149,158,Casper (1995),Adventure|Children,3.0
+5202,149,161,Crimson Tide (1995),Drama|Thriller|War,4.0
+5418,149,165,Die Hard: With a Vengeance (1995),Action|Crime|Thriller,3.0
+5663,149,172,Johnny Mnemonic (1995),Action|Sci-Fi|Thriller,3.0
+5728,149,173,Judge Dredd (1995),Action|Crime|Sci-Fi,2.0
+5799,149,175,Kids (1995),Drama,4.0
+6018,149,186,Nine Months (1995),Comedy|Romance,3.0
+6115,149,194,Smoke (1995),Comedy|Drama,4.0
+6216,149,198,Strange Days (1995),Action|Crime|Drama|Mystery|Sci-Fi|Thriller,4.0
+6513,149,216,Billy Madison (1995),Comedy,3.0
+6608,149,223,Clerks (1994),Comedy,5.0
+6775,149,227,Drop Zone (1994),Action|Thriller,3.0
+6866,149,231,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy,3.0
+7049,149,235,Ed Wood (1994),Comedy|Drama,4.0
+7213,149,246,Hoop Dreams (1994),Documentary,5.0
+7531,149,257,Just Cause (1995),Mystery|Thriller,4.0
+7624,149,260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,5.0
+8422,149,290,Once Were Warriors (1994),Crime|Drama,5.0
+8777,149,296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,5.0
+9062,149,300,Quiz Show (1994),Drama,4.0
+9398,149,316,Stargate (1994),Action|Adventure|Sci-Fi,3.0
+9666,149,318,"Shawshank Redemption, The (1994)",Crime|Drama,5.0
+9916,149,319,Shallow Grave (1994),Comedy|Drama|Thriller,4.0
+10750,149,349,Clear and Present Danger (1994),Action|Crime|Drama|Thriller,3.0
+10875,149,350,"Client, The (1994)",Drama|Mystery|Thriller,3.0
+11415,149,357,Four Weddings and a Funeral (1994),Comedy|Romance,4.0
+11828,149,367,"Mask, The (1994)",Action|Comedy|Crime|Fantasy,3.0
+12050,149,370,Naked Gun 33 1/3: The Final Insult (1994),Action|Comedy,3.0
+12129,149,372,Reality Bites (1994),Comedy|Drama|Romance,4.0
+12274,149,377,Speed (1994),Action|Romance|Thriller,3.0
+13030,149,420,Beverly Hills Cop III (1994),Action|Comedy|Crime|Thriller,1.0
+13288,149,434,Cliffhanger (1993),Action|Adventure|Thriller,3.0
+13391,149,435,Coneheads (1993),Comedy|Sci-Fi,3.0
+13490,149,440,Dave (1993),Comedy|Romance,4.0
+13768,149,454,"Firm, The (1993)",Drama|Thriller,4.0
+13900,149,456,Fresh (1994),Crime|Drama|Thriller,5.0
+13956,149,457,"Fugitive, The (1993)",Thriller,4.0
+14322,149,471,"Hudsucker Proxy, The (1994)",Comedy,4.0
+14388,149,474,In the Line of Fire (1993),Action|Thriller,4.0
+14478,149,475,In the Name of the Father (1993),Drama,5.0
+14612,149,480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,4.0
+14979,149,490,Malice (1993),Thriller,3.0
+15439,149,508,Philadelphia (1993),Drama,4.0
+15609,149,514,"Ref, The (1994)",Comedy,3.0
+16280,149,535,Short Cuts (1993),Drama,4.0
+16305,149,537,Sirens (1994),Drama,3.0
+16323,149,538,Six Degrees of Separation (1993),Drama,5.0
+16525,149,541,Blade Runner (1982),Action|Sci-Fi|Thriller,5.0
+16677,149,543,So I Married an Axe Murderer (1993),Comedy|Romance|Thriller,4.0
+17282,149,586,Home Alone (1990),Children|Comedy,3.0
+17410,149,587,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller,3.0
+17756,149,589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,4.0
+18000,149,590,Dances with Wolves (1990),Adventure|Drama|Western,3.0
+18207,149,592,Batman (1989),Action|Crime|Thriller,3.0
+18445,149,593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,5.0
+18982,149,597,Pretty Woman (1990),Comedy|Romance,3.0
+19196,149,608,Fargo (1996),Comedy|Crime|Drama|Thriller,5.0
+20553,149,733,"Rock, The (1996)",Action|Adventure|Thriller,3.0
+20949,149,745,Wallace & Gromit: A Close Shave (1995),Animation|Children|Comedy,4.0
+21296,149,778,Trainspotting (1996),Comedy|Crime|Drama,5.0
+21692,149,784,"Cable Guy, The (1996)",Comedy|Thriller,3.0
+22179,149,805,"Time to Kill, A (1996)",Drama|Thriller,4.0
+22343,149,832,Ransom (1996),Crime|Thriller,3.0
+22718,149,858,"Godfather, The (1972)",Crime|Drama,5.0
+22930,149,868,Death in Brunswick (1991),Comedy,4.0
+23856,149,919,"Wizard of Oz, The (1939)",Adventure|Children|Fantasy|Musical,5.0
+24070,149,923,Citizen Kane (1941),Drama|Mystery,4.0
+24154,149,924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi,5.0
+24622,149,953,It's a Wonderful Life (1946),Drama|Fantasy|Romance,4.0
+25206,149,1020,Cool Runnings (1993),Comedy,3.0
+25306,149,1025,"Sword in the Stone, The (1963)",Animation|Children|Fantasy|Musical,4.0
+25496,149,1032,Alice in Wonderland (1951),Adventure|Animation|Children|Fantasy|Musical,4.0
+25570,149,1035,"Sound of Music, The (1965)",Musical|Romance,3.0
+25643,149,1036,Die Hard (1988),Action|Crime|Thriller,3.0
+26413,149,1079,"Fish Called Wanda, A (1988)",Comedy|Crime,5.0
+26515,149,1080,Monty Python's Life of Brian (1979),Comedy,5.0
+26801,149,1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,5.0
+27110,149,1094,"Crying Game, The (1992)",Drama|Romance|Thriller,4.0
+27235,149,1097,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi,4.0
+27417,149,1101,Top Gun (1986),Action|Romance,3.0
+27605,149,1120,"People vs. Larry Flynt, The (1996)",Comedy|Drama,5.0
+27965,149,1136,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,5.0
+28189,149,1161,"Tin Drum, The (Blechtrommel, Die) (1979)",Drama|War,4.0
+28645,149,1193,One Flew Over the Cuckoo's Nest (1975),Drama,5.0
+28813,149,1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,4.0
+29213,149,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,4.0
+29407,149,1199,Brazil (1985),Fantasy|Sci-Fi,5.0
+29493,149,1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi,4.0
+29983,149,1207,To Kill a Mockingbird (1962),Drama,5.0
+30060,149,1208,Apocalypse Now (1979),Action|Drama|War,5.0
+30214,149,1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,5.0
+30415,149,1212,"Third Man, The (1949)",Film-Noir|Mystery|Thriller,4.0
+30476,149,1213,Goodfellas (1990),Crime|Drama,5.0
+30887,149,1219,Psycho (1960),Crime|Horror,4.0
+30968,149,1220,"Blues Brothers, The (1980)",Action|Comedy|Musical,5.0
+31081,149,1221,"Godfather: Part II, The (1974)",Crime|Drama,5.0
+31741,149,1234,"Sting, The (1973)",Comedy|Crime,5.0
+31807,149,1235,Harold and Maude (1971),Comedy|Drama|Romance,5.0
+31908,149,1240,"Terminator, The (1984)",Action|Sci-Fi|Thriller,5.0
+32228,149,1246,Dead Poets Society (1989),Drama,4.0
+32727,149,1257,Better Off Dead... (1985),Comedy|Romance,4.0
+32876,149,1259,Stand by Me (1986),Adventure|Drama,5.0
+33029,149,1262,"Great Escape, The (1963)",Action|Adventure|Drama|War,4.0
+33181,149,1265,Groundhog Day (1993),Comedy|Fantasy|Romance,5.0
+33446,149,1269,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller,4.0
+33514,149,1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,4.0
+33851,149,1275,Highlander (1986),Action|Adventure|Fantasy,3.0
+33917,149,1276,Cool Hand Luke (1967),Drama,5.0
+34253,149,1285,Heathers (1989),Comedy,4.0
+34369,149,1288,This Is Spinal Tap (1984),Comedy,5.0
+34481,149,1291,Indiana Jones and the Last Crusade (1989),Action|Adventure,5.0
+34619,149,1292,Being There (1979),Comedy|Drama,5.0
+34648,149,1293,Gandhi (1982),Drama,5.0
+34808,149,1299,"Killing Fields, The (1984)",Drama|War,5.0
+34883,149,1302,Field of Dreams (1989),Children|Drama|Fantasy,5.0
+34971,149,1304,Butch Cassidy and the Sundance Kid (1969),Action|Western,5.0
+36701,149,1387,Jaws (1975),Action|Horror,5.0
+36837,149,1391,Mars Attacks! (1996),Action|Comedy|Sci-Fi,3.0
+36950,149,1393,Jerry Maguire (1996),Drama|Romance,5.0
+37882,149,1466,Donnie Brasco (1997),Crime|Drama,5.0
+38567,149,1527,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi,3.0
+38755,149,1544,"Lost World: Jurassic Park, The (1997)",Action|Adventure|Sci-Fi|Thriller,2.0
+38944,149,1562,Batman & Robin (1997),Action|Adventure|Fantasy|Thriller,3.0
+40395,149,1639,Chasing Amy (1997),Comedy|Drama|Romance,5.0
